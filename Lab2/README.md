@@ -1,25 +1,30 @@
-# Lab 2 – Search Algorithms
+
+# Lab 2: AI Search Algorithms
 
 ## Aim
+To implement and study BFS, DFS, Hill Climbing, Best-First Search, and A* search algorithms.
 
-To implement and understand different search techniques used in Artificial Intelligence.
-
-## Experiments
-
-1. Breadth First Search (BFS)
-2. Depth First Search (DFS)
+## Algorithms
+1. Breadth-First Search (BFS)
+2. Depth-First Search (DFS)
 3. Hill Climbing
-4. Best First Search
+4. Best-First Search
 5. A* Search
 
-## Programming Language
+## Programs
+- bfs.py
+- dfs.py
+- hill_climbing.py
+- best_first_search.py
+- a_star.py
 
-Python
+## Results / Output
+To be added after executing the programs.
 
-## File
+## Performance Analysis
+Compare execution time, nodes explored, and path cost where applicable.
 
-SearchAlgorithms.py
-
-## Result
-
-BFS, DFS, Hill Climbing, Best First Search and A* Search were implemented successfully.
+## Learning Outcomes
+- Understand uninformed and informed search algorithms.
+- Learn graph traversal and heuristic-based search.
+- Compare different AI search strategies.
